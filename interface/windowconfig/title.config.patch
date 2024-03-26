@@ -2,7 +2,7 @@
   {
     "op" : "replace",
     "path" : "/music/day/tracks",
-    "value" : ["/music/title-menu-music.ogg", "/music/smm_title-menu-music.ogg", "/music/accretion-disc.ogg", "/music/casiopeia.ogg", "/music/the-peacekeepers.ogg", "/music/drosera.ogg", "/music/error-0xbfaf000.ogg", "/music/forsaken-grotto.ogg", "/music/inviolate-loop.ogg", "/music/i-was-the-sun.ogg", "/music/lava-exploration-2.ogg", "/music/mercury.ogg", "/music/Nomads.ogg", "/music/scorian-flow.ogg", "/music/temple-of-kluex.ogg", "/music/the-apex.ogg", "/music/the-deep.ogg", "/music/tranquility-base.ogg"]
+    "value" : ["/music/title-menu-music.ogg", "/music/smm_title-menu-music.ogg", "/music/accretion-disc.ogg", "/music/casiopeia.ogg", "/music/the-peacekeepers.ogg", "/music/drosera.ogg", "/music/error-0xbfaf000.ogg", "/music/forsaken-grotto.ogg", "/music/inviolate-loop.ogg", "/music/i-was-the-sun.ogg", "/music/lava-exploration2.ogg", "/music/mercury.ogg", "/music/Nomads.ogg", "/music/scorian-flow.ogg", "/music/temple-of-kluex.ogg", "/music/the-apex.ogg", "/music/the-deep.ogg", "/music/tranquility-base.ogg"]
   },
   {
     "op" : "copy",
