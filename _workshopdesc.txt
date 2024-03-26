@@ -1,0 +1,57 @@
+[h1]Spiced-Up Menu Music 1.0.0[/h1]
+gives the title screen a little variety by adding several other vanilla tracks to the playlist.
+[h3]Join the Discord![/h3]
+[url=https://discord.gg/4nN8KHBY6R]My personal Discord[/url] contains categories for things that I work on. I'd recommend joining if you're interested in seeing early previews of what's being worked on.
+
+[hr][/hr]
+[h2]What music does this mod add?[/h2]
+With this mod, the playlist should look as follows:
+[list]
+[*]Accretion Disc
+[*]The Apex
+[*]Casiopeia
+[*]The Deep
+[*]Drosera
+[*]Error 0xbfaf000
+[*]Forsaken Grotto
+[*]Inviolate
+[*]I Was The Sun (Before It Was Cool)
+[*]Lava Exploration 2
+[*]Mercury
+[*]Nomads (Passacaglia)
+[*]The Peacekeepers
+[*]Scorian Flow
+[*]Starbound [the vanilla title music]
+[*]Starbound [yes, it's included twice; see compatibility section]
+[*]Temple of Kluex
+[*]Tranquility Base
+[/list]
+
+[h3]Modded music support![/h3]
+link
+
+[hr][/hr]
+[h2]Is this mod compatible with X?[/h2]
+It definitely won't cause a crash! However, the approach I've taken for mod compatibility completely overrides any changes to the playlist made by mods with a load priority lower than 9000, and requires me to add patches for modded music.
+[b]If you want me to add compatibility with another mods' music, tell me![/b]
+
+In the case of mods that change the title music by replacing title-menu-music.ogg instead of creating a proper patch, they will also be compatible. This mod can't, however, do anything to change the fact that only one of these can be used at a time.
+The mod comes packed with a copy of the vanilla title music file, so a replacer mod can overwrite the original file while the copy ensures that "Starbound" still plays. It means that the track appears twice in the playlist otherwise, but there's unfortunately no easy way around this.
+
+[b]Found a bug? Leave a comment or start a discussion![/b]
+
+[hr][/hr]
+[h2]Can you add cross-mod support for X?[/h2]
+Yeah, I probably can! As stated above, it's possible to make patches that only apply if a certain mod is detected, so I can definitely add support for modded music being added to the title screen's playlist too.
+Let me know if you'd like to see any!
+
+[hr][/hr]
+[h2]How often does this mod update?[/h2]
+There's not much to this mod other than a list of music, so it gets updated whenever I feel the need to. If you have a suggestion, it should be addressed fairly quickly.
+
+[b]CURRENT FOCUS:[/b] none
+[b]CURRENT STATUS:[/b] being passively maintained
+
+[hr][/hr]
+Thanks for taking the time to check out this mod! Be sure to rate on your way out, and share this with anyone you think might like it.
+Happy Starbounding!
