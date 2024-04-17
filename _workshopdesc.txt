@@ -1,4 +1,4 @@
-[h1]Spiced-Up Menu Music 1.0.0[/h1]
+[h1]Spicebound:Menu Music 1.0.0[/h1]
 gives the title screen a little variety by adding several other vanilla tracks to the playlist.
 [h3]Join the Discord![/h3]
 [url=https://discord.gg/4nN8KHBY6R]My personal Discord[/url] contains categories for things that I work on. I'd recommend joining if you're interested in seeing early previews of what's being worked on.

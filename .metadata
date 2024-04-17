@@ -1,7 +1,7 @@
 {
   "author" : "SpicySpaceSnake",
   "description" : "Gives the title screen a little variety by adding several other vanilla tracks to the playlist.",
-  "friendlyName" : "Spiced-Up Menu Music",
+  "friendlyName" : "Spicebound:Menu Music",
   "includes" : ["Weep Not My Child - Title Music Addition", "FrackinUniverse", "Arcana", "XRC_BETA_STARBOUND"],
   "link" : "",
   "name" : "spicedMenuMusic",
