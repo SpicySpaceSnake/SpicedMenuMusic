@@ -28,8 +28,7 @@ With this mod, the playlist should look as follows:
 [/list]
 
 [h3]Modded music support![/h3]
-Check out the full suite of Spicebound mods for supplementary menu music mods, as well as other cool things!
-https://steamcommunity.com/sharedfiles/filedetails/?id=3224672112
+Check out the [url=https://steamcommunity.com/workshop/filedetails/?id=3224672112]full suite of Spicebound mods[/url] for supplementary menu music mods, as well as other cool things!
 
 [hr][/hr]
 [h2]Is this mod compatible with X?[/h2]
