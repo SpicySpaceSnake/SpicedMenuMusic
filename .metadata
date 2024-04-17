@@ -3,10 +3,10 @@
   "description" : "Gives the title screen a little variety by adding several other vanilla tracks to the playlist.",
   "friendlyName" : "Spicebound:Menu Music",
   "includes" : ["Weep Not My Child - Title Music Addition", "FrackinUniverse", "Arcana", "XRC_BETA_STARBOUND"],
-  "link" : "",
+  "link" : "steam://url/CommunityFilePage/3225377547",
   "name" : "spicedMenuMusic",
   "priority" : 9000,
-  "steamContentId" : "",
+  "steamContentId" : "3225377547",
   "tags" : "User Interface",
   "version" : "1.0.0"
 }
