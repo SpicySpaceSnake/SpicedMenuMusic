@@ -28,14 +28,15 @@ With this mod, the playlist should look as follows:
 [/list]
 
 [h3]Modded music support![/h3]
-link
+Check out the full suite of Spicebound mods for supplementary menu music mods, as well as other cool things!
+https://steamcommunity.com/sharedfiles/filedetails/?id=3224672112
 
 [hr][/hr]
 [h2]Is this mod compatible with X?[/h2]
-It definitely won't cause a crash! However, the approach I've taken for mod compatibility completely overrides any changes to the playlist made by mods with a load priority lower than 9000, and requires me to add patches for modded music.
+It definitely won't cause a crash! However, the approach I've taken for mod compatibility completely overrides any changes to the playlist made by mods with a load priority lower than 9000, and requires me to create supplementary mods (linked above) for modded music.
 [b]If you want me to add compatibility with another mods' music, tell me![/b]
 
-In the case of mods that change the title music by replacing title-menu-music.ogg instead of creating a proper patch, they will also be compatible. This mod can't, however, do anything to change the fact that only one of these can be used at a time.
+In the case of mods that change the title music by replacing title-menu-music.ogg (actual track name "Starbound") instead of creating a proper patch, they will also be compatible. This mod can't, however, do anything to change the fact that only one of these can be used at a time.
 The mod comes packed with a copy of the vanilla title music file, so a replacer mod can overwrite the original file while the copy ensures that "Starbound" still plays. It means that the track appears twice in the playlist otherwise, but there's unfortunately no easy way around this.
 
 [b]Found a bug? Leave a comment or start a discussion![/b]
@@ -49,8 +50,7 @@ Let me know if you'd like to see any!
 [h2]How often does this mod update?[/h2]
 There's not much to this mod other than a list of music, so it gets updated whenever I feel the need to. If you have a suggestion, it should be addressed fairly quickly.
 
-[b]CURRENT FOCUS:[/b] none
-[b]CURRENT STATUS:[/b] being passively maintained
+[b]CURRENT STATUS:[/b] being passively developed
 
 [hr][/hr]
 Thanks for taking the time to check out this mod! Be sure to rate on your way out, and share this with anyone you think might like it.
