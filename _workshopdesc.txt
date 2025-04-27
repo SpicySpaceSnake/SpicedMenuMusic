@@ -35,15 +35,14 @@ Check out the [url=https://steamcommunity.com/workshop/filedetails/?id=322467211
 It definitely won't cause a crash! However, the approach I've taken for mod compatibility completely overrides any changes to the playlist made by mods with a load priority lower than 9000, and requires me to create supplementary mods (linked above) for modded music.
 [b]If you want me to add compatibility with another mods' music, tell me![/b]
 
-In the case of mods that change the title music by replacing title-menu-music.ogg (actual track name "Starbound") instead of creating a proper patch, they will also be compatible. This mod can't, however, do anything to change the fact that only one of these can be used at a time.
-The mod comes packed with a copy of the vanilla title music file, so a replacer mod can overwrite the original file while the copy ensures that "Starbound" still plays. It means that the track appears twice in the playlist otherwise, but there's unfortunately no easy way around this.
+In the case of mods that change the title music by replacing title-menu-music.ogg (actual track name "Starbound") instead of creating a proper patch, they will also be compatible. However, this mod can't do anything about the fact that only one of these can be used at a time. What it [i]can[/i] do is come packed with a copy of the vanilla title music file, so a replacer mod can overwrite the original file while the copy ensures that "Starbound" still plays. It means that the track appears twice in the playlist otherwise, but there's unfortunately no easy way around this.
 
 [b]Found a bug? Leave a comment or start a discussion![/b]
 
 [hr][/hr]
 [h2]Can you add cross-mod support for X?[/h2]
-Yeah, I probably can! As stated above, it's possible to make patches that only apply if a certain mod is detected, so I can definitely add support for modded music being added to the title screen's playlist too.
-Let me know if you'd like to see any!
+Yeah, I probably can! As stated above, it's possible (and very easy) to make supplementary mods for modded music.
+Drop a comment if you'd like to see any!
 
 [hr][/hr]
 [h2]How often does this mod update?[/h2]
